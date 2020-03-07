@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362983462213",
+    "firebase_url": "https://chatapps-48f4a.firebaseio.com",
+    "project_id": "chatapps-48f4a",
+    "storage_bucket": "chatapps-48f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362983462213:android:c71da0e55b888009519a2c",
+        "android_client_info": {
+          "package_name": "com.example.scapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362983462213-nqhgth28hp4vkvjhrka2vj8segjmht8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vL6k7Ys8dt6lvkH0RNM_Reqo35xzlnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362983462213-nqhgth28hp4vkvjhrka2vj8segjmht8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
